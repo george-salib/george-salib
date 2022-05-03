@@ -6,6 +6,7 @@
 * Categorizes purchases by corresponding category with unique set of symbols
 * Monthly view full list of purchases
 
+<img src="https://github.com/george-salib/George_Salib_Portfolio/blob/main/Expense%20Tracker%20App%20Demo.gif" width="50%" height="50%"/>
 ![](https://github.com/george-salib/George_Salib_Portfolio/blob/main/Expense%20Tracker%20App%20Demo.gif)
 
 
