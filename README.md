@@ -6,11 +6,7 @@
 * Categorizes purchases by corresponding category with unique set of symbols
 * Monthly view full list of purchases
 
-<img src="https://github.com/george-salib/George_Salib_Portfolio/blob/main/Expense%20Tracker%20App%20Media/Expense%20Tracker%20App%20Demo.gif" width="20%" height="20%"/>
-<img src="https://github.com/george-salib/George_Salib_Portfolio/blob/main/Expense%20Tracker%20App%20Media/Expense%20Tracker%20App%20Demo%20IMG1.png" width="20%" height="20%"/>
-<img src="https://github.com/george-salib/George_Salib_Portfolio/blob/main/Expense%20Tracker%20App%20Media/Expense%20Tracker%20App%20Demo%20IMG2.png" width="20%" height="20%"/>
-<img src="https://github.com/george-salib/George_Salib_Portfolio/blob/main/Expense%20Tracker%20App%20Media/Expense%20Tracker%20App%20Demo%20IMG3.png" width="20%" height="20%"/>
-<img src="https://github.com/george-salib/George_Salib_Portfolio/blob/main/Expense%20Tracker%20App%20Media/Expense%20Tracker%20App%20Demo%20IMG4.png" width="20%" height="20%"/>
+<img src="https://github.com/george-salib/George_Salib_Portfolio/blob/main/Expense%20Tracker%20App%20Media/Expense%20Tracker%20App%20Demo.gif" width="20%" height="20%"/> <img src="https://github.com/george-salib/George_Salib_Portfolio/blob/main/Expense%20Tracker%20App%20Media/Expense%20Tracker%20App%20Demo%20IMG1.png" width="20%" height="20%"/> <img src="https://github.com/george-salib/George_Salib_Portfolio/blob/main/Expense%20Tracker%20App%20Media/Expense%20Tracker%20App%20Demo%20IMG2.png" width="20%" height="20%"/> <img src="https://github.com/george-salib/George_Salib_Portfolio/blob/main/Expense%20Tracker%20App%20Media/Expense%20Tracker%20App%20Demo%20IMG3.png" width="20%" height="20%"/> <img src="https://github.com/george-salib/George_Salib_Portfolio/blob/main/Expense%20Tracker%20App%20Media/Expense%20Tracker%20App%20Demo%20IMG4.png" width="20%" height="20%"/>
 
 
 # [Snake Game (Python)](https://github.com/george-salib/Worm_Game)
