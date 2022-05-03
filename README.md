@@ -6,7 +6,7 @@
 * Categorized purchases by corresponding category with unique set of symbols
 * Monthly view full list of purchases
 
-<img src="Expense Tracker App Media/Expense Tracker App Demo.gif" width="23%" height="23%"/> <img src="https://github.com/george-salib/George_Salib_Portfolio/blob/main/Expense%20Tracker%20App%20Media/Expense%20Tracker%20App%20Demo%20IMG1.png" width="23%" height="23%"/> <img src="https://github.com/george-salib/George_Salib_Portfolio/blob/main/Expense%20Tracker%20App%20Media/Expense%20Tracker%20App%20Demo%20IMG2.png" width="23%" height="23%"/> <img src="https://github.com/george-salib/George_Salib_Portfolio/blob/main/Expense%20Tracker%20App%20Media/Expense%20Tracker%20App%20Demo%20IMG3.png" width="23%" height="23%"/>
+<img src="Expense Tracker App Media/Expense Tracker App Demo.gif" width="23%" height="23%"/> <img src="Expense Tracker App Media/Expense Tracker App Demo IMG1.png" width="23%" height="23%"/> <img src="https://github.com/george-salib/George_Salib_Portfolio/blob/main/Expense%20Tracker%20App%20Media/Expense%20Tracker%20App%20Demo%20IMG2.png" width="23%" height="23%"/> <img src="https://github.com/george-salib/George_Salib_Portfolio/blob/main/Expense%20Tracker%20App%20Media/Expense%20Tracker%20App%20Demo%20IMG3.png" width="23%" height="23%"/>
 
 
 # [Snake Game (Python)](https://github.com/george-salib/Worm_Game)
