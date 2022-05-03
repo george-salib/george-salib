@@ -2,8 +2,8 @@
 
 # [Expense Tracker App (Swift)](https://github.com/george-salib/Expense_Tracker_App)
 * Used Swift and SwiftUI to create a sleek Expense Tracker App
-* Implemented an interactive chart using SwiftUICharts allowing user to see daily expenses
-* Categorizes purchases by corresponding category with unique set of symbols
+* Implemented an interactive chart using SwiftUICharts allowing users to track daily expenses
+* Categorized purchases by corresponding category with unique set of symbols
 * Monthly view full list of purchases
 
 <img src="https://github.com/george-salib/George_Salib_Portfolio/blob/main/Expense%20Tracker%20App%20Media/Expense%20Tracker%20App%20Demo.gif" width="23%" height="23%"/> <img src="https://github.com/george-salib/George_Salib_Portfolio/blob/main/Expense%20Tracker%20App%20Media/Expense%20Tracker%20App%20Demo%20IMG1.png" width="23%" height="23%"/> <img src="https://github.com/george-salib/George_Salib_Portfolio/blob/main/Expense%20Tracker%20App%20Media/Expense%20Tracker%20App%20Demo%20IMG2.png" width="23%" height="23%"/> <img src="https://github.com/george-salib/George_Salib_Portfolio/blob/main/Expense%20Tracker%20App%20Media/Expense%20Tracker%20App%20Demo%20IMG3.png" width="23%" height="23%"/>
