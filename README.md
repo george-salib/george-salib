@@ -1,12 +1,12 @@
 # George_Salib_Portfolio
 
-# [Expense_Tracker_App (Swift)](https://github.com/george-salib/Expense_Tracker_App)
+# [Expense Tracker App (Swift)](https://github.com/george-salib/Expense_Tracker_App)
 * Used Swift and SwiftUI to create a sleek Expense Tracker App
 * Implemented an interactive chart using SwiftUICharts allowing user to see daily expenses
 * Categorizes purchases by corresponding category with unique set of symbols
 * Monthly view full list of purchases
 
-![](https://github.com/george-salib/George_Salib_Portfolio/Expense_Tracker_App_Demo.gif)
+![](https://github.com/george-salib/George_Salib_Portfolio/blob/main/Expense%20Tracker%20App%20Demo.gif)
 
 
 # [Snake Game (Python)](https://github.com/george-salib/Worm_Game)
