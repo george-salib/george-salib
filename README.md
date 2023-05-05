@@ -1,4 +1,4 @@
-# George Salib Portfolio
+# George_Salib_Portfolio
 
 # [Expense Tracker App (Swift)](https://github.com/george-salib/Expense_Tracker_App)
 * Used Swift and SwiftUI to create a sleek Expense Tracker App
