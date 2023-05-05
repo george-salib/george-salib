@@ -15,7 +15,7 @@
 * Menu system and level logic created to provide player with seemless gameplay
 * Custom assets created
 
-<img src="Expense Tracker App Media/Expense Tracker App Demo.gif" width="23%" height="23%"/> <img src="Expense Tracker App Media/Expense Tracker App Demo IMG1.png" width="23%" height="23%"/> <img src="Expense Tracker App Media/Expense Tracker App Demo IMG2.png" width="23%" height="23%"/> <img src="Expense Tracker App Media/Expense Tracker App Demo IMG3.png" width="23%" height="23%"/>
+<img src="Host Media/Host 1.png" width="32%" height="32%"/> <img src="Host Media/Host 2.png" width="32%" height="32%"/> <img src="Host Media/Host 3.png" width="32%" height="32%"/>
 
 
 # [Snake Game (Python)](https://github.com/george-salib/Worm_Game)
