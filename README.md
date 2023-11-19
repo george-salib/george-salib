@@ -61,4 +61,4 @@
 * Enables movement control over the x and y coordinates of the screen by the user using input keys
 * Ability for 2-players mode
 
-<img src="Snake Game SC1.png" width="32%" height="32%"/> <img src="Snake Game SC2.png" width="32%" height="32%"/> <img src="Snake Game SC3.png" width="32%" height="32%"/>
+<img src="Snake Game Media/Snake Game SC1.png" width="32%" height="32%"/> <img src="Snake Game Media/Snake Game SC2.png" width="32%" height="32%"/> <img src="Snake Game Media/Snake Game SC3.png" width="32%" height="32%"/>
