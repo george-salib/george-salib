@@ -1,4 +1,4 @@
-- 👋 Hi, my name is George Salib. I'm a student @ Queen's University specializing in AI!
+- 👋 Hi, my name is George Salib. I'm a Computer Science student @ Queen's University specializing in AI!
 - 👀 I’m interested in: Data Analytics, Machine Learning, AI, Web/App Development, Finance
 - 🌱 I’m currently learning: SQL, Haskell, Prolog, Data Analytics
 - 📫 Check out my [LinkedIn](http://www.linkedin.com/in/georgesalib)!
