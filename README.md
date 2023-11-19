@@ -35,7 +35,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-# George_Salib_Portfolio
+# 💼 My Portfolio
 
 # [Expense Tracker App (Swift)](https://github.com/george-salib/Expense_Tracker_App)
 * Used Swift and SwiftUI to create a sleek Expense Tracker App
@@ -61,4 +61,4 @@
 * Enables movement control over the x and y coordinates of the screen by the user using input keys
 * Ability for 2-players mode
 
-<img width="310.5" height = "230" alt="Snake Game SC1.png" src="Snake Game SC1.png"> <img width="310.5" height = "230" alt="Snake Game SC2.png" src="Snake Game SC2.png"> <img width="310.5" height = "230" alt="Snake Game SC3.png" src="Snake Game SC3.png">
+<img src="Snake Game SC1.png" width="32%" height="32%"/> <img src="Snake Game SC2.png" width="32%" height="32%"/> <img src="Snake Game SC3.png" width="32%" height="32%"/>
