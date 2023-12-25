@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/george-salib/static/css/main.999d52a7.css",
+    "main.js": "/george-salib/static/js/main.67f9be04.js",
+    "static/js/787.fb771931.chunk.js": "/george-salib/static/js/787.fb771931.chunk.js",
+    "static/media/Expense Tracker App Demo.gif": "/george-salib/static/media/Expense Tracker App Demo.f9862008d657b91e93ed.gif",
+    "static/media/Host 1.png": "/george-salib/static/media/Host 1.65d0d6fb320abd4fc57b.png",
+    "static/media/color-sharp2.png": "/george-salib/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/header-img-2.svg": "/george-salib/static/media/header-img-2.713e430a326b8630cd256c5eea38b9df.svg",
+    "static/media/banner-bg.png": "/george-salib/static/media/banner-bg.d2f7c5016a7a57899d98.png",
+    "static/media/Expense Tracker App Demo IMG2.png": "/george-salib/static/media/Expense Tracker App Demo IMG2.537d440a97584bbf0023.png",
+    "static/media/Host 2.png": "/george-salib/static/media/Host 2.e508848e4f792b20f11c.png",
+    "static/media/Expense Tracker App Demo IMG3.png": "/george-salib/static/media/Expense Tracker App Demo IMG3.0cdde9e00b734aef6e0c.png",
+    "static/media/Host 3.png": "/george-salib/static/media/Host 3.646b0beb3c6342ea6c71.png",
+    "static/media/Snake Game SC2.png": "/george-salib/static/media/Snake Game SC2.639991dd71e785f25ad2.png",
+    "static/media/Snake Game SC1.png": "/george-salib/static/media/Snake Game SC1.74f2b573a6549c62adc5.png",
+    "static/media/CentraNo2-Bold.ttf": "/george-salib/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/george-salib/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/george-salib/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/george-salib/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/logo.svg": "/george-salib/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Snake Game SC3.png": "/george-salib/static/media/Snake Game SC3.2179c2be86ce6acf1ca1.png",
+    "static/media/nav-icon2.svg": "/george-salib/static/media/nav-icon2.76c251b9dd291d8c1256b9e0d4377a85.svg",
+    "static/media/nav-icon3.svg": "/george-salib/static/media/nav-icon3.f096227fd91fe6230ab94e8580a4a5b6.svg",
+    "index.html": "/george-salib/index.html",
+    "static/media/nav-icon4.svg": "/george-salib/static/media/nav-icon4.537f318ad46ca792c41d8c5bf5802284.svg",
+    "static/media/nav-icon1.svg": "/george-salib/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.999d52a7.css.map": "/george-salib/static/css/main.999d52a7.css.map",
+    "main.67f9be04.js.map": "/george-salib/static/js/main.67f9be04.js.map",
+    "787.fb771931.chunk.js.map": "/george-salib/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.999d52a7.css",
+    "static/js/main.67f9be04.js"
+  ]
+}
